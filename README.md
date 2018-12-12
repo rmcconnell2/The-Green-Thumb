@@ -1,6 +1,10 @@
 # The Green Thumb
 
-Team Members
+## [Final prototype](https://www.figma.com/proto/0tQp9fS1PWl8jofJ8zn9svbS/GreenThumbApp?node-id=0%3A1&scaling=min-zoom)
+
+## [Project video]()
+
+### Team Members
 
 Timothy Childers - tich1726@colorado.edu
 
@@ -19,5 +23,3 @@ Links to all the files produced in our previous assignments:
 [Assignment 5: Usability Testing & Heuristic Evaluation](https://github.com/rmcconnell2/the-green-thumb/blob/master/5_the%20green%20thumb%20usability%20testing%20and%20heuristics.pdf)
 
 [Assignment 6: Final Prototype & Storyboard](https://github.com/rmcconnell2/the-green-thumb/blob/master/6_final%20prototype%20%2B%20storyboard.pdf)
-
-A link to your final prototype and project video (it's OK to link to the video on the Google shared drive)
