@@ -1,5 +1,3 @@
-# The Green Thumb
-
 ## [Final prototype](https://www.figma.com/proto/0tQp9fS1PWl8jofJ8zn9svbS/GreenThumbApp?node-id=0%3A1&scaling=min-zoom)
 
 ## [Project video]()
