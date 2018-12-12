@@ -4,6 +4,8 @@
 
 ## [Project video]()
 
+----
+
 ### Team Members
 
 Timothy Childers - tich1726@colorado.edu
@@ -12,7 +14,9 @@ Colin O'Connell - cooc5321@colorado.edu
 
 Becky McConnell - remc2567@colorado.edu
 
-Links to all the files produced in our previous assignments:
+----
+
+Previous assignments:
 
 [Assignment 2: Project Plan](https://github.com/rmcconnell2/the-green-thumb/blob/master/2_CSCI3002_ProjectPlan_GreenThumb.pdf)
 
