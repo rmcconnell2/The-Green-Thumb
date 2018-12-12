@@ -10,14 +10,14 @@ Becky McConnell - remc2567@colorado.edu
 
 Links to all the files produced in our previous assignments:
 
-[Assignment 2: Project Plan](url)
+[Assignment 2: Project Plan](https://github.com/rmcconnell2/the-green-thumb/blob/master/2_CSCI3002_ProjectPlan_GreenThumb.pdf)
 
-[Assignment 3: Design Research](url)
+[Assignment 3: Design Research](https://github.com/rmcconnell2/the-green-thumb/blob/master/3_Green%20Thumb%20Design%20Research.pdf)
 
-[Assignment 4: Paper Prototype](url)
+[Assignment 4: Paper Prototype](https://github.com/rmcconnell2/the-green-thumb/blob/master/4_Green%20Thumb%20Paper%20Prototyping.pdf)
 
-[Assignment 5: Usability Testing & Heuristic Evaluation](url)
+[Assignment 5: Usability Testing & Heuristic Evaluation](https://github.com/rmcconnell2/the-green-thumb/blob/master/5_the%20green%20thumb%20usability%20testing%20and%20heuristics.pdf)
 
-[Assignment 6: Final Prototype & Storyboard](url)
+[Assignment 6: Final Prototype & Storyboard](https://github.com/rmcconnell2/the-green-thumb/blob/master/6_final%20prototype%20%2B%20storyboard.pdf)
 
 A link to your final prototype and project video (it's OK to link to the video on the Google shared drive)
